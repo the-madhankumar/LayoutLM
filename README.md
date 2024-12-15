@@ -179,7 +179,7 @@ Finally, the annotated image is displayed using `matplotlib`. The bounding boxes
 
 ---
 
-#Output:
+# Output:
 ![Screenshot 2024-12-15 135454](https://github.com/user-attachments/assets/d01c4041-2bd7-4122-9a5e-1c173f936612)
 
 
