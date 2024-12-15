@@ -1,7 +1,3 @@
-Here is a detailed explanation of the code for the `README.md` file:
-
----
-
 # LayoutLM for Document Understanding and Information Extraction
 
 This project demonstrates the usage of **LayoutLM**, a pre-trained transformer model for document image processing, to extract structured information from documents. The **FUNSD dataset** is used as an example, which contains documents in the form of images, text, and bounding boxes. LayoutLM utilizes both textual and layout features to enhance understanding, making it particularly useful for document classification tasks like named entity recognition (NER).
@@ -191,6 +187,3 @@ This code demonstrates the integration of text and layout features using **Layou
 
 For more information on how to use LayoutLM for document understanding, check out the [KDnuggets tutorial](https://www.kdnuggets.com/how-to-layoutlm-document-understanding-information-extraction-hugging-face-transformers).
 
----
-
-This explanation should give a clear understanding of each step in the code, and how the LayoutLM model is used for document understanding and information extraction tasks. You can include this in the `README.md` of your GitHub repository for others to understand the flow of the code.
